@@ -1,14 +1,5 @@
 # 📣 AI Social Media Ad Assistant
 
-A full AI-powered marketing assistant that creates:
-- Customer personas  
-- Outreach messages  
-- High-converting ads  
-- Best posting times  
-- Engagement predictions  
-
-# 📣 AI Social Media Ad Assistant
-
 ![Image](https://s3-alpha.figma.com/hub/file/2173425200017221284/22e32cdd-8f6d-4661-b7c8-33639ef878a8-cover.png)
 
 ![Image](https://europe1.discourse-cdn.com/flex013/uploads/make/original/3X/0/4/04aaac5d56eba6f0ffa0283d014abdad713b5d26.jpeg)
